@@ -8,8 +8,8 @@ Este projeto consiste em uma plataforma para o gerenciamento de projetos de pesq
 
 * **Nerval de Jesus Santos Junior** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub](https://github.com/nervaljunior)
 * **Leandro Lisboa Matos** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub]()
-* **Leonardo Victor dos Santos Sa Menez** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub]()
-* **Luís Guilherme Freitas de Almeida Silva** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub]()
+* **Leonardo Victor dos Santos Sa Menez** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub](https://github.com/leonardovssmenez)
+* **Luís Guilherme Freitas de Almeida Silva** - *Documentação - Dev - Engenheiro* - [Perfil do GitHub](https://github.com/lgfas)
 
 ## 📌 Planejamento
 
